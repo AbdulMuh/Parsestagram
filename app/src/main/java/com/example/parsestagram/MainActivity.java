@@ -58,8 +58,6 @@ public class MainActivity extends AppCompatActivity {
                 ParseUser.logOut();
                 goLoginActivity();
                 Toast.makeText(MainActivity.this,"Logged out!",Toast.LENGTH_SHORT).show();
-
-
             }
         });
 
