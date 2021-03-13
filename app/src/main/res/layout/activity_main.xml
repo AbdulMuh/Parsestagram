@@ -42,5 +42,4 @@
         android:translationY="200dp"
         tools:text="LOGOUT" />
 
-
 </LinearLayout>
